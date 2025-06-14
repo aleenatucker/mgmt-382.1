@@ -29,8 +29,9 @@
 <i> "The chronic care team helped me get my diabetes under control. For a long time, I felt like I could not manage my blood sugar, but that's no longer the case! Whether it be regular check-ins or personalized guidance, this team has helped me feel than I have in years. I feel so much better managing my health now."<br><br>
 
 
-Would <b>YOU</b> like to be part of the success stories?<br><br>
-Click below to be redirected to our products and services.
+Would <b>YOU</b> like to be part of the success stories?<br>
+Click below to find a CVS pharmacy near you that carries our products. <br>
+<a href = "https://www.cvs.com/store-locator" target = "_blank"> CVS Pharmacy Locator</a>
   
 
 
