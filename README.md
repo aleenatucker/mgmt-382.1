@@ -9,11 +9,11 @@
 <br>
 </head>
 
-<body>
-  <b><u></u> Testimonial 1:<u></u> Wellness Product Customer</b> <br>
+<body bgcolor = E7FFFF>
+  <font color="FF5757 size "4"><b><u></u> Testimonial 1:<u></u> Wellness Product Customer</b> <br>
 <b> Name:</b> Martha J., 35 <br>
 <b> Location:</b> Dallas, TX<br>
-<b> Product Used:</b> Immune+ - Daily Supplement <br>
+<b> Product Used:</b> Immune+, A Daily Supplement <br>
 <i> "I've been taking Immune+ for about a year, and I feel great! I rarely get sick, have more energy, and love the all-natural ingredients! I won't go a day without taking it!"</i><br><br>
 
 <b><u> Testimonial 2:</u> Telehealth Service Customer</b><br>
@@ -26,18 +26,18 @@
 <b> Name:</b> Rosemary R., 68<br>
 <b> Location:</b> Buffalo, NY<br>
 <b> Service Used: </b> Chronic Care Program for Diabetes<br>
-<i> The chronic care team helped me get my diabetes under control. For a long time, I felt like I could not manage my blood sugar, but that's no longer the case! Whether it be regular check-ins or personalized guidance, this team has helped me feel than I have in years. I feel so much better managing my health now."<br><br>
+<i> "The chronic care team helped me get my diabetes under control. For a long time, I felt like I could not manage my blood sugar, but that's no longer the case! Whether it be regular check-ins or personalized guidance, this team has helped me feel than I have in years. I feel so much better managing my health now."<br><br>
 
 
-Would <b>YOU</b> like to cbe part of the success stories?<br><br>
-Click below to be redirected.
+Would <b>YOU</b> like to be part of the success stories?<br><br>
+Click below to be redirected to our products and services.
   
 
 
 
   
 </body>
-
+<h3<i> Questions? Contact our customer service representative</i> <a href = "mailto:aleenatucker@eloheh.com"> here </a></h3>
 
 
   
