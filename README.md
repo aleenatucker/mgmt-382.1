@@ -2,6 +2,7 @@
   
 <head>
 <center>
+  <img src = "Happy Customers.png">
   <br>
   <h1> Eloheh</h1>
 </center>
