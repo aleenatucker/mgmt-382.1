@@ -2,7 +2,7 @@
   
 <head>
 <center>
-  <img src = "Happy Customers.png" alt="5 Star Reviews">
+  <img src = "Happy Customer.png" width = 480 height = 205 align = "right" >
   <br>
   <h1> Eloheh</h1>
 </center>
