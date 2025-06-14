@@ -23,7 +23,7 @@
 <b> Service Used:</b> Virtual Primary Care<br>
 <i> "Booking an appointment online was so quick and easy; I had no issues navigating the webpage! I was seen the same day, and Dr. Snuffles seemed to really listen to me. This is so convenient! I'll no longer be sitting in waiting rooms with this team of doctors taking care of me."</i><br><br>
 
-<b><u> Testimonial 3:</u> Chronic Care Management Customer </b> <br>
+<b><u> Testimonial 3:</u> Chronic Care Management Customer </b><br>
 <b> Name:</b> Rosemary R., 68<br>
 <b> Location:</b> Buffalo, NY<br>
 <b> Service Used: </b> Chronic Care Program for Diabetes<br>
@@ -36,10 +36,11 @@ Click below to find a CVS pharmacy near you that carries our products. <br>
   
 
 
-
+<h4><i> Questions? Contact our customer service representative</i> <a href = "mailto:aleenatucker@eloheh.com"> here </a></h4><br><br><br><br>
+<script> document.write(document.lastModified);</script>
   
 </body>
-<h3<i> Questions? Contact our customer service representative</i> <a href = "mailto:aleenatucker@eloheh.com"> here </a></h3>
+
 
 
   
