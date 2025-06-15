@@ -30,14 +30,32 @@
 <i> "The chronic care team helped me get my diabetes under control. For a long time, I felt like I could not manage my blood sugar, but that's no longer the case! Whether it be regular check-ins or personalized guidance, this team has helped me feel than I have in years. I feel so much better managing my health now."<br><br>
 
 
-Would <b>YOU</b> like to be part of the success stories?<br>
+Would <b>YOU</b> like to be part of the success stories? <a href = "Intake.docx">Get Started!</a><br>
 Click below to find a CVS pharmacy near you that carries our products. <br>
-<a href = "https://www.cvs.com/store-locator" target = "_blank"> CVS Pharmacy Locator</a>
+<a href = "https://www.cvs.com/store-locator" target = "_blank"> CVS Pharmacy Locator</a><br>
+<b> Our Partner Hospitals</b>
+<ol>
+  <li> Franciscan Health</li>
+  <li> Memorial Hospital</li>
+  <li> Mayo Hospital</li>
+  <li> Health Rehabilitation Center</li>
+</ol>
+
+
   
 
 
-<h4><i> Questions? Contact our customer service representative</i> <a href = "mailto:aleenatucker@eloheh.com"> here </a></h4><br><br><br><br>
-<script> document.write(document.lastModified);</script>
+<h4><i> Questions? Contact our customer service representative</i>mailto:aleenatucker@eloheh.com"> here </a></h4><br><br><br><br>
+<script> document.write(document.lastModified);</script><br><br>
+General Services<br>
+<ul> 
+  <li> Preventative Care</li>
+  <li> Diagnosis and Treatment of Common Illness or disease</li>
+  <li> Family Medicine</li>
+  <li> Telehealth</li>
+</ul>
+
+
   
 </body>
 
